@@ -1,0 +1,24 @@
+## Demonstration
+
+![](https://imgur.com/31CcAsh.gif)
+
+
+
+## 🚀 Tecnologias, Hooks e Bibliotecas
+
+Esse projeto está sendo desenvolvido com as seguintes tecnologias:
+
+- ReactJS
+- TypeScript
+- useState
+- useEfect
+- Context API
+- Styled Components
+- Mirage JS
+- Axios
+- React Modal
+- Polished
+
+## 💻 Projeto
+
+Fala pessoal, quero compartilhar com vocês, o dt money é uma alternativa simples e eficaz para gerenciar suas finanças, permitindo o cadastro de entradas, saídas e a organização das mesmas em categorias.💰
